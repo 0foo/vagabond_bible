@@ -5,4 +5,4 @@
 
 # Notes
 
-* Large files like the atlas images don't seem to be showing but if you clone this repo and run it on your machine they should.
+* Large files like the atlas images don't seem to be showing but if you clone this repo and run it on your machine they should all be there and it should be working properly.
